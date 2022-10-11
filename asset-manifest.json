@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nate-markdown-previewer/static/css/main.e6c13ad2.css",
+    "main.js": "/nate-markdown-previewer/static/js/main.3bc8fe73.js",
+    "static/js/787.e9480b1f.chunk.js": "/nate-markdown-previewer/static/js/787.e9480b1f.chunk.js",
+    "index.html": "/nate-markdown-previewer/index.html",
+    "main.e6c13ad2.css.map": "/nate-markdown-previewer/static/css/main.e6c13ad2.css.map",
+    "main.3bc8fe73.js.map": "/nate-markdown-previewer/static/js/main.3bc8fe73.js.map",
+    "787.e9480b1f.chunk.js.map": "/nate-markdown-previewer/static/js/787.e9480b1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3bc8fe73.js"
+  ]
+}
