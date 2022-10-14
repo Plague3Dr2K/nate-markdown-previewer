@@ -128,7 +128,7 @@ padding:0 50px;
 }}
 @media only screen and (min-width: 200px) and (max-width: 400px) {
     font-size : 15px;
-    width: 100%;
+    width: 80%;
     &::-webkit-slider-thumb {
      -webkit-appearance: none;
      width: 15px;
